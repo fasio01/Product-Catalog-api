@@ -1,0 +1,46 @@
+# Build results
+bin/
+obj/
+build/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Logs and Database
+*.log
+*.dbmdl
+*.bak
+*.sql
+*.pdb
+
+# OS-generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Rider and JetBrains
+.idea/
+*.sln.iml
+
+# Environment variables
+.env
+.env.*
+
+# Scaffolding
+ScaffoldingReadMe.txt
+
+# Migrations (if you want to ignore EF migrations, optional)
+Migrations/
+
+# Publish (optional, ignore if not needed)
+# publish/
